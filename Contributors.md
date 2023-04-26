@@ -805,6 +805,7 @@
 - [Jose Martinez](https://github.com/Jnmarti88/)
 - [Klee-cocow](https://github.com/Klee-cocow)
 - [Gabriela](https://github.com/gabrysia97)
+  [Spencer Gee](https://github.com/SpencerGee)
 - [Chris Banford 🇨🇭🇺🇸](https://github.com/ZermattChris)
 - [Tuan Nguyen Minh](https://github.com/tuana9a)
 - [Cameron Luo](https://github.com/camer0nluo)
@@ -1137,4 +1138,5 @@
 - [Ian Maestro](https://github.com/itsmaestro)
 - [Nissrine Canina](https://github.com/Nissrine-Can)
 - [Sushil Bhardwaj](https://github.com/Bazigar69)
+- [Aakash Dixit (friend of Sushil)](https://github.com/aakash26dixit)
 <!-- prettier-ignore-end -->
